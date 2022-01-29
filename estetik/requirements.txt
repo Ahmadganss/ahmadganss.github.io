@@ -17,3 +17,4 @@ maker2 = AestheticMaker("background.jpg", "ploy.png")
 maker2.create(decoration=False)
 
 maker2.save("maker2.jpg")
+Pillow==8.0.1
